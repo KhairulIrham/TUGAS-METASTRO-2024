@@ -9,31 +9,37 @@
 ![Screenshot Project](https://github.com/KhairulIrham/TUGAS-METASTRO-2024/blob/main/Screenshot%202024-09-26%20121331.png)
 
 ### Deskripsi Project
-[Isi dengan deskripsi singkat project Anda]
+[Project ini bertujuan untuk mengembangkan prototipe kendaraan otonom skala kecil yang mampu bergerak secara mandiri tanpa campur tangan manusia. Sistem ini akan dilengkapi dengan sensor (seperti LIDAR, ultrasonik, atau kamera) untuk mendeteksi rintangan dan kamera untuk mengenali jalur yang harus diikuti. Dengan menggunakan algoritma kecerdasan buatan seperti computer vision dan reinforcement learning, kendaraan otonom ini dapat beradaptasi dengan kondisi lingkungan di sekitarnya, menghindari halangan, dan menemukan jalur terbaik untuk dilalui.]
 
 ### Fitur Utama
-- [Fitur 1]
-- [Fitur 2]
-- [Fitur 3]
+Mikrokontroler (Arduino/Raspberry Pi): Sebagai pengendali utama.
+Sensor Ultrasonik/LIDAR: Untuk mendeteksi rintangan di depan kendaraan.
+Kamera: Digunakan untuk jalur pengenalan dan pemrosesan citra (computer vision).
+Motor Penggerak dan Roda: Untuk pergerakan kendaraan.
+Algoritma AI: Penerapan AI untuk pengambilan keputusan otonom berdasarkan sensor input.
 
 ### Cara Menggunakan
-1. [Langkah 1]
-2. [Langkah 2]
-3. [Langkah 3]
+Controls
+w = move the camera +y axis
+a = move the camera -x axis
+s = move the camera -y axis
+d = move the camera +x axis
+up = move the camera +z axis
+down = move the camera -z axis
 
 ### Teknologi yang Digunakan
-- [Teknologi 1]
-- [Teknologi 2]
-- [Teknologi 3]
+Dependencies
+Cygwin with the package listed as below:
 
-### Kontribusi
-[Jelaskan bagaimana orang lain dapat berkontribusi pada project Anda]
+gcc-g++
+make
+libGLU-devel
+libGLU1
+libglut-devel
+libglut3
+libGL-devel
+libGL1
+xinit (required, scripts for starting the X server: xinit, startx, startwin (and a shortcut on the Start Menu to run it), startxdmcp.bat )
+xorg-server (required, the Cygwin/X X Server)
 
-### Lisensi
-[Sebutkan lisensi project Anda]
 
-### Kontak
-[Informasi kontak Anda]
-
----
-© [Tahun] [Nama Anda]. Hak Cipta Dilindungi.
