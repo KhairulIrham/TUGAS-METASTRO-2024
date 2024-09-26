@@ -3,7 +3,7 @@
 ## Screenshot Akun GitHub
 ![Screenshot Akun GitHub](https://github.com/KhairulIrham/TUGAS-METASTRO-2024/blob/main/Screenshot%202024-09-26%20121421.png)
 
-## Project Terbaru: [Nama Project]
+## Project Terbaru: [Sistem Kendaraan Otonomus]
 
 ### Screenshot Project
 ![Screenshot Project](https://github.com/KhairulIrham/TUGAS-METASTRO-2024/blob/main/Screenshot%202024-09-26%20121331.png)
