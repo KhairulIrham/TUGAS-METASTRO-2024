@@ -1,7 +1,7 @@
 # [MUHAMMAD KHAIRUL IRHAM MASRURI]
 
 ## Screenshot Akun GitHub
-![Screenshot Akun GitHub](URL_SCREENSHOT_AKUN_GITHUB)
+![Screenshot Akun GitHub](https://github.com/KhairulIrham/TUGAS-METASTRO-2024/blob/main/Screenshot%202024-09-26%20121421.png))
 
 ## Project Terbaru: [Nama Project]
 
